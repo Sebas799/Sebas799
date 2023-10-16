@@ -12,3 +12,12 @@ Tengo 24 años y estoy incursionando en el mundo de la programación web. Actual
 | LUNES | MARTES | MIERCOLES | JUEVES | VIERNES | SABADO | DOMINGO |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |1hs| 2hs | 1hs | 2hs |1hs| Todo lo que pueda | Igual que el sábado|
+
+# 📖 COMANDOS ALIAS MAS UTILIZADOS 
+| COMANDO | DESCRIPCIÓN |
+| -------- | ---------- |
+| cd | Se utiliza pra cambiar de directorio |
+| pwd | Te muestra donde estas posicionado |
+| mkdir | Crear un nuevo directorio |
+| ls | Listar los elementos del directorio |
+| clear | Limpiar la terminal de comandos |
