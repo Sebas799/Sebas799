@@ -21,4 +21,4 @@ Tengo 24 años y estoy incursionando en el mundo de la programación web. Actual
 ``` bash
     alias mostused='history | awk '\''{print $2}'\''| sort | uniq -c | sort -nr | head -n 10'
 ```
-Esto solo aparecerá en MAIN.
+Esto solo aparecerá en MAIN. ❤️
